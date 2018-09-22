@@ -4,4 +4,5 @@ int age;
 int hhh;
 int hhhtttt;
 int abc;
+int nnn;
 }
